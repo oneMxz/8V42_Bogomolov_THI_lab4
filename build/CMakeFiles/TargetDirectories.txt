@@ -1,0 +1,4 @@
+C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir
+C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftApp.dir
+C:/lab4sem/laba4/build/CMakeFiles/edit_cache.dir
+C:/lab4sem/laba4/build/CMakeFiles/rebuild_cache.dir
