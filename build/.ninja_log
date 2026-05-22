@@ -15,11 +15,11 @@
 772	1625	8011589088633376	CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/GiftService.cpp.obj	38715fa94dd59798
 787	1470	8011589088785263	CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/FileLogger.cpp.obj	72e8200b1d303dcc
 803	1571	8011589088943981	CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/FileLoggerFactory.cpp.obj	34ccbfdaf60a81f4
-822	1636	8011589089126182	CMakeFiles/NewYearGiftApp.dir/NewYearGiftApp/main.cpp.obj	6737fb6d02fa8103
-832	1683	8011589089229192	CMakeFiles/NewYearGiftApp.dir/NewYearGiftApp/ConsoleUI.cpp.obj	c363ac6ea42af9c3
-1625	2101	8011589101751225	libNewYearGiftLib.dll	b330ac9cad255760
-1625	2101	8011589101751225	libNewYearGiftLib.dll.a	b330ac9cad255760
-2101	3260	8011589101914196	NewYearGiftApp.exe	ab9c086ee6e9a3b1
+753	1546	8011621231735115	CMakeFiles/NewYearGiftApp.dir/NewYearGiftApp/main.cpp.obj	506494ea8863e048
+764	1599	8011621231840626	CMakeFiles/NewYearGiftApp.dir/NewYearGiftApp/ConsoleUI.cpp.obj	9901ce07024126b2
+1499	2165	8011621245457437	libNewYearGiftLib.dll	1519af7797fa0b37
+1499	2165	8011621245457437	libNewYearGiftLib.dll.a	1519af7797fa0b37
+2165	3522	8011621245831834	NewYearGiftApp.exe	ab9c086ee6e9a3b1
 12	605	8011621224306789	CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/AbstractSweet.cpp.obj	4f1435af6496c112
 39	623	8011621224588043	CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/CaramelCandy.cpp.obj	acef1b473b64d8f4
 22	641	8011621224412740	CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/Candy.cpp.obj	42645c6c21b4c942
@@ -36,8 +36,3 @@
 718	1384	8011621231384428	CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/FileLogger.cpp.obj	3f1012fa9d43d57b
 732	1462	8011621231516857	CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/FileLoggerFactory.cpp.obj	640c192d26a00dba
 623	1498	8011621230425466	CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/GiftService.cpp.obj	76ba9c0191114492
-753	1546	8011621231735115	CMakeFiles/NewYearGiftApp.dir/NewYearGiftApp/main.cpp.obj	506494ea8863e048
-764	1599	8011621231840626	CMakeFiles/NewYearGiftApp.dir/NewYearGiftApp/ConsoleUI.cpp.obj	9901ce07024126b2
-1499	2165	8011621245457437	libNewYearGiftLib.dll	1519af7797fa0b37
-1499	2165	8011621245457437	libNewYearGiftLib.dll.a	1519af7797fa0b37
-2165	3522	8011621245831834	NewYearGiftApp.exe	ab9c086ee6e9a3b1
