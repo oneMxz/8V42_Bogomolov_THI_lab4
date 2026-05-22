@@ -1,7 +1,8 @@
 #pragma once
 #include "Candy.h"
+#include "Export.h"
 
-class ChocolateCandy : public Candy {
+class NEWYEAR_GIFT_API ChocolateCandy : public Candy {
 private:
     int _CocoaPercentage;       // процент какао (0-100)
     std::string _ChocolateType;  // молочный, горький, белый

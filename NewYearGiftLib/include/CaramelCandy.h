@@ -1,7 +1,8 @@
 #pragma once
 #include "Candy.h"
+#include "Export.h"
 
-class CaramelCandy : public Candy {
+class NEWYEAR_GIFT_API CaramelCandy : public Candy {
 private:
     std::string _CaramelType;   // мягкая, тягучая, твёрдая, солёная
     bool _HasSalt;              // солёная карамель или нет

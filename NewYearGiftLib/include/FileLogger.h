@@ -1,9 +1,10 @@
 #pragma once
+#include "Export.h"
 #include "ILogger.h"
 #include <fstream>
 #include <string>
 
-class FileLogger : public ILogger {
+class NEWYEAR_GIFT_API FileLogger : public ILogger {
 private:
     std::ofstream _file;
 public:

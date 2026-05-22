@@ -1,8 +1,9 @@
 #pragma once
 #include "SweetFactory.h"
 #include "Marshmallow.h"
+#include "Export.h"
 
-class MarshmallowFactory : public SweetFactory {
+class NEWYEAR_GIFT_API MarshmallowFactory : public SweetFactory {
 private:
     std::string _coatingType;   // тип покрытия
 

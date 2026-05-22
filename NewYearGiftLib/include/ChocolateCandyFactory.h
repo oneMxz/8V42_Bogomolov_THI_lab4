@@ -1,8 +1,9 @@
 #pragma once
 #include "ChocolateCandy.h"
 #include "SweetFactory.h"
+#include "Export.h"
 
-class ChocolateCandyFactory : public SweetFactory{
+class NEWYEAR_GIFT_API ChocolateCandyFactory : public SweetFactory{
 private:
     std::string _fillingType;
     bool _hasWrapper;

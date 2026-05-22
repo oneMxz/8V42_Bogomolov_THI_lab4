@@ -2,8 +2,9 @@
 #include <vector>
 #include <string>
 #include "AbstractSweet.h"
+#include "Export.h"
 
-class NewYearGift {
+class NEWYEAR_GIFT_API NewYearGift {
 private:
     std::vector<AbstractSweet*> _Sweets;
 public:

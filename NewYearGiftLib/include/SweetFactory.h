@@ -1,9 +1,10 @@
 #pragma once
 #include <string>
 #include "AbstractSweet.h"
+#include "Export.h"
 
 // Абстрактная фабрика для создания сладостей
-class SweetFactory {
+class NEWYEAR_GIFT_API SweetFactory {
 public:
     // Виртуальный деструктор обязателен для полиморфного удаления
     virtual ~SweetFactory() = default;

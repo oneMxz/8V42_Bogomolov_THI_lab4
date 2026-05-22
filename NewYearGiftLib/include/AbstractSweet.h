@@ -1,7 +1,8 @@
 #pragma once
 #include <string>
+#include "Export.h"
 
-class AbstractSweet {
+class NEWYEAR_GIFT_API AbstractSweet {
 protected:
     std::string _Name;
     double _Weight;         // вес в граммах

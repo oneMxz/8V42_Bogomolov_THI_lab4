@@ -2,9 +2,10 @@
 #include "NewYearGift.h"
 #include "SweetFactory.h"
 #include "ILogger.h"
+#include "Export.h"
 #include <vector>
 
-class GiftService {
+class NEWYEAR_GIFT_API GiftService {
 private:
     NewYearGift _gift;
     ILogger* _logger;   // добавили логгер

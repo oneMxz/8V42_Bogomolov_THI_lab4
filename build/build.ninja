@@ -49,181 +49,149 @@ cmake_ninja_workdir = C$:/lab4sem/laba4/build/
 
 build cmake_object_order_depends_target_NewYearGiftLib: phony || .
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/AbstractSweet.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/AbstractSweet.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/AbstractSweet.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/AbstractSweet.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\AbstractSweet.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\AbstractSweet.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/Candy.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/Candy.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/Candy.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/Candy.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\Candy.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\Candy.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/ChocolateCandy.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/ChocolateCandy.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/ChocolateCandy.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/ChocolateCandy.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\ChocolateCandy.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\ChocolateCandy.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/CaramelCandy.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/CaramelCandy.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/CaramelCandy.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/CaramelCandy.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\CaramelCandy.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\CaramelCandy.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/Lollipop.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/Lollipop.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/Lollipop.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/Lollipop.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\Lollipop.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\Lollipop.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/Marshmallow.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/Marshmallow.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/Marshmallow.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/Marshmallow.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\Marshmallow.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\Marshmallow.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/NewYearGift.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/NewYearGift.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/NewYearGift.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/NewYearGift.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\NewYearGift.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\NewYearGift.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/ChocolateCandyFactory.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/ChocolateCandyFactory.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/ChocolateCandyFactory.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/ChocolateCandyFactory.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\ChocolateCandyFactory.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\ChocolateCandyFactory.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/CaramelCandyFactory.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/CaramelCandyFactory.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/CaramelCandyFactory.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/CaramelCandyFactory.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\CaramelCandyFactory.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\CaramelCandyFactory.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/LollipopFactory.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/LollipopFactory.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/LollipopFactory.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/LollipopFactory.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\LollipopFactory.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\LollipopFactory.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/MarshmallowFactory.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/MarshmallowFactory.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/MarshmallowFactory.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/MarshmallowFactory.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\MarshmallowFactory.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\MarshmallowFactory.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/GiftService.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/GiftService.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/GiftService.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/GiftService.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\GiftService.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\GiftService.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/ConsoleLogger.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/ConsoleLogger.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/ConsoleLogger.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/ConsoleLogger.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\ConsoleLogger.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\ConsoleLogger.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/FileLogger.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/FileLogger.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/FileLogger.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/FileLogger.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\FileLogger.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\FileLogger.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/ConsoleLoggerFactory.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/ConsoleLoggerFactory.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/ConsoleLoggerFactory.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/ConsoleLoggerFactory.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\ConsoleLoggerFactory.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\ConsoleLoggerFactory.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
-build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/FileLoggerFactory.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/FileLoggerFactory.cpp || cmake_object_order_depends_target_NewYearGiftLib
+build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/FileLoggerFactory.cpp.obj: CXX_COMPILER__NewYearGiftLib_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftLib/src/FileLoggerFactory.cpp || cmake_object_order_depends_target_NewYearGiftLib
   CONFIG = Debug
   DEFINES = -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS
-  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\FileLoggerFactory.cpp.obj.d
+  DEP_FILE = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src\FileLoggerFactory.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftLib.dir
-  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
-  TARGET_PDB = libNewYearGiftLib.pdb
+  OBJECT_FILE_DIR = CMakeFiles\NewYearGiftLib.dir\NewYearGiftLib\src
 
 
 # =============================================================================
@@ -233,7 +201,7 @@ build CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/FileLoggerFactory.cpp.obj: CX
 #############################################
 # Link the shared library libNewYearGiftLib.dll
 
-build libNewYearGiftLib.dll libNewYearGiftLib.dll.a: CXX_SHARED_LIBRARY_LINKER__NewYearGiftLib_Debug CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/AbstractSweet.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/Candy.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/ChocolateCandy.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/CaramelCandy.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/Lollipop.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/Marshmallow.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/NewYearGift.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/ChocolateCandyFactory.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/CaramelCandyFactory.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/LollipopFactory.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/MarshmallowFactory.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/GiftService.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/ConsoleLogger.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/FileLogger.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/ConsoleLoggerFactory.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/FileLoggerFactory.cpp.obj
+build libNewYearGiftLib.dll libNewYearGiftLib.dll.a: CXX_SHARED_LIBRARY_LINKER__NewYearGiftLib_Debug CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/AbstractSweet.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/Candy.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/ChocolateCandy.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/CaramelCandy.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/Lollipop.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/Marshmallow.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/NewYearGift.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/ChocolateCandyFactory.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/CaramelCandyFactory.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/LollipopFactory.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/MarshmallowFactory.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/GiftService.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/ConsoleLogger.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/FileLogger.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/ConsoleLoggerFactory.cpp.obj CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/FileLoggerFactory.cpp.obj
   CONFIG = Debug
   LANGUAGE_COMPILE_FLAGS = -g
   LINK_FLAGS = -shared
@@ -242,10 +210,9 @@ build libNewYearGiftLib.dll libNewYearGiftLib.dll.a: CXX_SHARED_LIBRARY_LINKER__
   POST_BUILD = cd .
   PRE_LINK = cd .
   RESTAT = 1
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftLib.dir\
   TARGET_FILE = libNewYearGiftLib.dll
   TARGET_IMPLIB = libNewYearGiftLib.dll.a
-  TARGET_PDB = libNewYearGiftLib.pdb
+  TARGET_PDB = NewYearGiftLib.dll.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target NewYearGiftApp
@@ -260,21 +227,17 @@ build CMakeFiles/NewYearGiftApp.dir/NewYearGiftApp/main.cpp.obj: CXX_COMPILER__N
   CONFIG = Debug
   DEP_FILE = CMakeFiles\NewYearGiftApp.dir\NewYearGiftApp\main.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftApp.dir
   OBJECT_FILE_DIR = CMakeFiles\NewYearGiftApp.dir\NewYearGiftApp
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftApp.dir\
-  TARGET_PDB = NewYearGiftApp.pdb
 
 build CMakeFiles/NewYearGiftApp.dir/NewYearGiftApp/ConsoleUI.cpp.obj: CXX_COMPILER__NewYearGiftApp_unscanned_Debug C$:/lab4sem/laba4/NewYearGiftApp/ConsoleUI.cpp || cmake_object_order_depends_target_NewYearGiftApp
   CONFIG = Debug
   DEP_FILE = CMakeFiles\NewYearGiftApp.dir\NewYearGiftApp\ConsoleUI.cpp.obj.d
   FLAGS = -g -std=c++11
-  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib
+  INCLUDES = -IC:/lab4sem/laba4/NewYearGiftLib/include
   OBJECT_DIR = CMakeFiles\NewYearGiftApp.dir
   OBJECT_FILE_DIR = CMakeFiles\NewYearGiftApp.dir\NewYearGiftApp
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftApp.dir\
-  TARGET_PDB = NewYearGiftApp.pdb
 
 
 # =============================================================================
@@ -291,10 +254,9 @@ build NewYearGiftApp.exe: CXX_EXECUTABLE_LINKER__NewYearGiftApp_Debug CMakeFiles
   OBJECT_DIR = CMakeFiles\NewYearGiftApp.dir
   POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D C:\lab4sem\laba4\build && C:\msys64\mingw64\bin\cmake.exe -E copy_if_different C:/lab4sem/laba4/build/libNewYearGiftLib.dll C:/lab4sem/laba4/build"
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\NewYearGiftApp.dir\
   TARGET_FILE = NewYearGiftApp.exe
   TARGET_IMPLIB = libNewYearGiftApp.dll.a
-  TARGET_PDB = NewYearGiftApp.pdb
+  TARGET_PDB = NewYearGiftApp.exe.dbg
 
 
 #############################################
@@ -343,14 +305,14 @@ build all: phony libNewYearGiftLib.dll NewYearGiftApp.exe
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja C$:/lab4sem/laba4/build/cmake_install.cmake: RERUN_CMAKE | C$:/lab4sem/laba4/CMakeLists.txt C$:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompiler.cmake.in C$:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompilerABI.cpp C$:/msys64/mingw64/share/cmake/Modules/CMakeCXXInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeCommonLanguageInclude.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeCompilerIdDetection.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCXXCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompilerABI.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompilerId.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompilerSupport.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeDetermineRCCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeDetermineSystem.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeFindBinUtils.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeGenericSystem.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeInitializeConfigs.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeLanguageInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeNinjaFindMake.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeParseLibraryArchitecture.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeRCCompiler.cmake.in C$:/msys64/mingw64/share/cmake/Modules/CMakeRCInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeSystem.cmake.in C$:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeTestCXXCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeTestCompilerCommon.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeTestRCCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Diab-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-CXX-CXXImportStd.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-FindBinUtils.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Renesas-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/TI-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/msys64/mingw64/share/cmake/Modules/Internal/CMakeInspectCXXLinker.cmake C$:/msys64/mingw64/share/cmake/Modules/Internal/FeatureTesting.cmake C$:/msys64/mingw64/share/cmake/Modules/Linker/GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Linker/GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Linker/GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Linker/Windows-GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-Determine-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-Initialize.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-windres.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/4.1.0/CMakeCXXCompiler.cmake CMakeFiles/4.1.0/CMakeRCCompiler.cmake CMakeFiles/4.1.0/CMakeSystem.cmake
+build build.ninja C$:/lab4sem/laba4/build/cmake_install.cmake: RERUN_CMAKE | C$:/lab4sem/laba4/CMakeLists.txt C$:/msys64/mingw64/share/cmake/Modules/CMakeCXXInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeCommonLanguageInclude.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeGenericSystem.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeInitializeConfigs.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeLanguageInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeRCInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/Linker/GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Linker/GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Linker/GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Linker/Windows-GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-Initialize.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-windres.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/4.1.0/CMakeCXXCompiler.cmake CMakeFiles/4.1.0/CMakeRCCompiler.cmake CMakeFiles/4.1.0/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/lab4sem/laba4/CMakeLists.txt C$:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompiler.cmake.in C$:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompilerABI.cpp C$:/msys64/mingw64/share/cmake/Modules/CMakeCXXInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeCommonLanguageInclude.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeCompilerIdDetection.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCXXCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompilerABI.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompilerId.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompilerSupport.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeDetermineRCCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeDetermineSystem.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeFindBinUtils.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeGenericSystem.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeInitializeConfigs.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeLanguageInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeNinjaFindMake.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeParseLibraryArchitecture.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeRCCompiler.cmake.in C$:/msys64/mingw64/share/cmake/Modules/CMakeRCInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeSystem.cmake.in C$:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeTestCXXCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeTestCompilerCommon.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeTestRCCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Diab-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-CXX-CXXImportStd.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-FindBinUtils.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Renesas-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/TI-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/msys64/mingw64/share/cmake/Modules/Internal/CMakeInspectCXXLinker.cmake C$:/msys64/mingw64/share/cmake/Modules/Internal/FeatureTesting.cmake C$:/msys64/mingw64/share/cmake/Modules/Linker/GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Linker/GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Linker/GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Linker/Windows-GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-Determine-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-Initialize.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-windres.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/4.1.0/CMakeCXXCompiler.cmake CMakeFiles/4.1.0/CMakeRCCompiler.cmake CMakeFiles/4.1.0/CMakeSystem.cmake: phony
+build C$:/lab4sem/laba4/CMakeLists.txt C$:/msys64/mingw64/share/cmake/Modules/CMakeCXXInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeCommonLanguageInclude.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeGenericSystem.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeInitializeConfigs.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeLanguageInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeRCInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Compiler/GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/msys64/mingw64/share/cmake/Modules/Linker/GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Linker/GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Linker/GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Linker/Windows-GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-CXX.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-Initialize.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows-windres.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/Windows.cmake C$:/msys64/mingw64/share/cmake/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/4.1.0/CMakeCXXCompiler.cmake CMakeFiles/4.1.0/CMakeRCCompiler.cmake CMakeFiles/4.1.0/CMakeSystem.cmake: phony
 
 
 #############################################

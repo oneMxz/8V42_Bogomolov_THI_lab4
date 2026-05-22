@@ -1,7 +1,9 @@
 #pragma once
 #include "AbstractSweet.h"
+#include "Export.h"
 
-class Lollipop : public AbstractSweet {
+class NEWYEAR_GIFT_API 
+Lollipop : public AbstractSweet {
 private:
     std::string _Flavor;   // вкус: клубника, лимон, мята, корица
     bool _OnStick;         // на палочке или нет

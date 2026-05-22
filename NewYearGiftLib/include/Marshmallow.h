@@ -1,8 +1,9 @@
 
 #pragma once
 #include "AbstractSweet.h"
+#include "Export.h"
 
-class Marshmallow : public AbstractSweet {
+class NEWYEAR_GIFT_API Marshmallow : public AbstractSweet {
 private:
     std::string _CoatingType;   // шоколадная, глазурь, без покрытия
 public:

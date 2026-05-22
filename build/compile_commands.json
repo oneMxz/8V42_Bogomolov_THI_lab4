@@ -1,109 +1,109 @@
 [
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\AbstractSweet.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\AbstractSweet.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/AbstractSweet.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/AbstractSweet.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\AbstractSweet.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\AbstractSweet.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/AbstractSweet.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/AbstractSweet.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\Candy.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\Candy.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/Candy.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/Candy.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\Candy.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\Candy.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/Candy.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/Candy.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\ChocolateCandy.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\ChocolateCandy.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/ChocolateCandy.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/ChocolateCandy.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\ChocolateCandy.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\ChocolateCandy.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/ChocolateCandy.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/ChocolateCandy.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\CaramelCandy.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\CaramelCandy.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/CaramelCandy.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/CaramelCandy.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\CaramelCandy.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\CaramelCandy.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/CaramelCandy.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/CaramelCandy.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\Lollipop.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\Lollipop.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/Lollipop.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/Lollipop.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\Lollipop.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\Lollipop.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/Lollipop.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/Lollipop.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\Marshmallow.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\Marshmallow.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/Marshmallow.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/Marshmallow.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\Marshmallow.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\Marshmallow.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/Marshmallow.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/Marshmallow.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\NewYearGift.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\NewYearGift.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/NewYearGift.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/NewYearGift.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\NewYearGift.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\NewYearGift.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/NewYearGift.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/NewYearGift.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\ChocolateCandyFactory.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\ChocolateCandyFactory.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/ChocolateCandyFactory.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/ChocolateCandyFactory.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\ChocolateCandyFactory.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\ChocolateCandyFactory.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/ChocolateCandyFactory.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/ChocolateCandyFactory.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\CaramelCandyFactory.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\CaramelCandyFactory.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/CaramelCandyFactory.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/CaramelCandyFactory.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\CaramelCandyFactory.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\CaramelCandyFactory.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/CaramelCandyFactory.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/CaramelCandyFactory.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\LollipopFactory.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\LollipopFactory.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/LollipopFactory.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/LollipopFactory.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\LollipopFactory.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\LollipopFactory.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/LollipopFactory.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/LollipopFactory.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\MarshmallowFactory.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\MarshmallowFactory.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/MarshmallowFactory.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/MarshmallowFactory.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\MarshmallowFactory.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\MarshmallowFactory.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/MarshmallowFactory.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/MarshmallowFactory.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\GiftService.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\GiftService.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/GiftService.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/GiftService.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\GiftService.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\GiftService.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/GiftService.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/GiftService.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\ConsoleLogger.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\ConsoleLogger.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/ConsoleLogger.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/ConsoleLogger.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\ConsoleLogger.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\ConsoleLogger.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/ConsoleLogger.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/ConsoleLogger.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\FileLogger.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\FileLogger.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/FileLogger.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/FileLogger.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\FileLogger.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\FileLogger.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/FileLogger.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/FileLogger.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\ConsoleLoggerFactory.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\ConsoleLoggerFactory.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/ConsoleLoggerFactory.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/ConsoleLoggerFactory.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\ConsoleLoggerFactory.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\ConsoleLoggerFactory.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/ConsoleLoggerFactory.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/ConsoleLoggerFactory.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\FileLoggerFactory.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\FileLoggerFactory.cpp",
-  "file": "C:/lab4sem/laba4/NewYearGiftLib/FileLoggerFactory.cpp",
-  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/FileLoggerFactory.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DNEWYEARGIFTLIB_EXPORTS -DNewYearGiftLib_EXPORTS -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftLib.dir\\NewYearGiftLib\\src\\FileLoggerFactory.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftLib\\src\\FileLoggerFactory.cpp",
+  "file": "C:/lab4sem/laba4/NewYearGiftLib/src/FileLoggerFactory.cpp",
+  "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftLib.dir/NewYearGiftLib/src/FileLoggerFactory.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftApp.dir\\NewYearGiftApp\\main.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftApp\\main.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftApp.dir\\NewYearGiftApp\\main.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftApp\\main.cpp",
   "file": "C:/lab4sem/laba4/NewYearGiftApp/main.cpp",
   "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftApp.dir/NewYearGiftApp/main.cpp.obj"
 },
 {
   "directory": "C:/lab4sem/laba4/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/lab4sem/laba4/NewYearGiftLib -g -std=c++11 -o CMakeFiles\\NewYearGiftApp.dir\\NewYearGiftApp\\ConsoleUI.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftApp\\ConsoleUI.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/lab4sem/laba4/NewYearGiftLib/include -g -std=c++11 -o CMakeFiles\\NewYearGiftApp.dir\\NewYearGiftApp\\ConsoleUI.cpp.obj -c C:\\lab4sem\\laba4\\NewYearGiftApp\\ConsoleUI.cpp",
   "file": "C:/lab4sem/laba4/NewYearGiftApp/ConsoleUI.cpp",
   "output": "C:/lab4sem/laba4/build/CMakeFiles/NewYearGiftApp.dir/NewYearGiftApp/ConsoleUI.cpp.obj"
 }

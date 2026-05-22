@@ -1,8 +1,9 @@
 #pragma once
 #include "SweetFactory.h"
 #include "Lollipop.h"
+#include "Export.h"
 
-class LollipopFactory : public SweetFactory {
+class NEWYEAR_GIFT_API LollipopFactory : public SweetFactory {
 private:
     std::string _flavor;   // вкус
     bool _onStick;         // на палочке или нет
